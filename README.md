@@ -24,7 +24,6 @@ const mohamed = {
   currentlyLearning: "JavaScript — going deep!",
   askMeAbout: ["HTML", "CSS", "JavaScript", "anything web"],
   goal: "Build real things. Break things. Learn. Repeat.",
-  funFact: "The first computer bug was an actual bug 🪲 — a moth found in a relay in 1947."
 };
 ```
 
