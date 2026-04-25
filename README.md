@@ -19,7 +19,7 @@
 ```javascript
 const mohamed = {
   name: "Mohamed Atef",
-  role: "Full Stack Developer (in progress 🥲)",
+  role: "Full Stack Developer (in progress 😎)",
   location: "Egypt 🌍",
   currentlyLearning: "JavaScript — going deep!",
   askMeAbout: ["HTML", "CSS", "JavaScript", "anything web"],
