@@ -4,7 +4,8 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%"/>
+[<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%"/>](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+)
 
 <br>
 
