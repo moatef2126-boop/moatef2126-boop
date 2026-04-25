@@ -4,8 +4,7 @@
 
 <br>
 
-[<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%"/>](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Night" width="40%"/>
 
 <br>
 
@@ -20,11 +19,12 @@
 ```javascript
 const mohamed = {
   name: "Mohamed Atef",
-  role: "Full Stack Developer (in progress 😎)",
+  role: "Full Stack Developer (in progress 🥲)",
   location: "Egypt 🌍",
   currentlyLearning: "JavaScript — going deep!",
   askMeAbout: ["HTML", "CSS", "JavaScript", "anything web"],
   goal: "Build real things. Break things. Learn. Repeat.",
+  funFact: "The first computer bug was an actual bug 🪲 — a moth found in a relay in 1947."
 };
 ```
 
